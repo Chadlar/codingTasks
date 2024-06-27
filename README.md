@@ -15,6 +15,11 @@ EDA is a critical step in the data science process that ensures the quality and 
 
 
 ## Usage 
-
+1. First download titanic.csv dataset and titanic.ipynb jupyter notebook and be sure they are in the same path.
+2. 
 
 ## Credits
+This project would not be possible without the contributions of:
++ **Caglar Ustun** - [Chadlar](https://github.com/Chadlar)
+
+**Note:** All contributors are encouraged to add their contact information and roles in this section.
