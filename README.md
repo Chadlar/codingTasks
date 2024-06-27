@@ -14,10 +14,32 @@ EDA is a critical step in the data science process that ensures the quality and 
 ## Installation
 To set up your local environment to run this EDA project, follow these steps.
 ### Prerequisites
-- Ensure you have Python installed on your system. If not, download it from [python.org](https://python.org).
+- Ensure you have Python installed on your system. If not, download it from [python.org](https://www.python.org/downloads/).
 - Install Jupyter Notebook. You can do this by running:
 ```python
 pip install notebook
+```
+- Additionally, you need to have the following Python libraries to use the code:
+1. [NumPy](https://numpy.org/) 
+```python
+pip install numpy
+```
+2. [pandas](https://pandas.pydata.org/)
+```python
+pip install pandas
+```
+3. [Matplotlib](https://matplotlib.org/)
+```python
+pip install matplotlib
+```
+4. [seaborn](https://seaborn.pydata.org/)   
+Seaborn requires an installation of Python 3.8 or greater.
+```python
+pip install seaborn
+```
+5. [missingno](https://pypi.org/project/missingno/)
+```python
+pip install missingno
 ```
 - You can use Conda for run the Jupyter notebook as well or
 - If you don't want to use any source-code editor you can try [Jupyter Notebook](https://jupyter.org/try) on your browser
