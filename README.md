@@ -6,16 +6,26 @@ EDA is a critical step in the data science process that ensures the quality and 
 
 ### Table of Content
 * [Description](https://github.com/Chadlar/codingTasks/blob/main/README.md#description)   
-* [Installing](https://github.com/Chadlar/codingTasks/blob/main/README.md#installing)   
+* [Installation](https://github.com/Chadlar/codingTasks/blob/main/README.md#installation)   
 * [Usage](https://github.com/Chadlar/codingTasks/blob/main/README.md#usage)   
 * [Credits](https://github.com/Chadlar/codingTasks/blob/main/README.md#credits)   
 
 
-## Installing
+## Installation
+To set up your local environment to run this EDA project, follow these steps.
+### Prerequisites
+- Ensure you have Python installed on your system. If not, download it from [python.org](https://python.org).
+- Install Jupyter Notebook. You can do this by running:
+```python
+pip install notebook
+```
+- You can use Conda for run the Jupyter notebook as well or
+- If you don't want to use any source-code editor you can try [Jupyter Notebook](https://jupyter.org/try) on your browser
 
 
 ## Usage 
-1. First download titanic.csv dataset and titanic.ipynb jupyter notebook and be sure they are in the same path.
+Once you have installed all prerequisites and dependencies, you can start analyzing the data.
+1. First download Titanic.csv dataset and titanic.ipynb jupyter notebook and be sure they are in the same path.
 2. 
 
 ## Credits
