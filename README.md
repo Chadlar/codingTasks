@@ -58,9 +58,17 @@ Once you have installed all prerequisites and dependencies, you can start analyz
 
 This template provides a basic structure for users to install and use an EDA project from a GitHub repository. It's important to ensure that any specific instructions related to the project are included when adapting this template for actual use.
 
-*Some examples of the model run:*
+### *Some examples of the model run:*
 
+![Screenshot 2024-06-27 232359](https://github.com/Chadlar/codingTasks/assets/163336843/c615e35b-ce2f-413f-84b7-856697e85ce2)
 
+**Heat map of the dataset:**
+
+![Screenshot 2024-06-27 232515](https://github.com/Chadlar/codingTasks/assets/163336843/5fa53e34-4256-4e89-98b0-2be90956291f)
+
+**Figure from the last code cell of the notebook:**
+
+![Screenshot 2024-06-27 232651](https://github.com/Chadlar/codingTasks/assets/163336843/deab8c76-92b9-4af0-be36-44c2accb2327)
 
 ## Credits
 This project would not be possible without the contributions of:
