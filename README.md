@@ -12,6 +12,11 @@
 
 
 ## Installation
+First of all clone the repository to your github page.
+```
+git clone https://github.com/Chadlar/codingTask.git
+```
+
 To set up your local environment to run this EDA project, follow these steps.
 ### Prerequisites
 - Ensure you have Python installed on your system. If not, download it from [python.org](https://www.python.org/downloads/).
@@ -47,8 +52,15 @@ pip install missingno
 
 ## Usage 
 Once you have installed all prerequisites and dependencies, you can start analyzing the data.
-1. First download Titanic.csv dataset and titanic.ipynb jupyter notebook and be sure they are in the same path.
-2. 
+1. In this task using Titanic.csv dataset and titanic.ipynb jupyter notebook and be sure they are in the same path.
+2. Run the titanic.ipynb jupyter notebook file into your source-code editor (or on browser).
+3. And that's it. The code must work properly.
+
+This template provides a basic structure for users to install and use an EDA project from a GitHub repository. It's important to ensure that any specific instructions related to the project are included when adapting this template for actual use.
+
+*Some examples of the model run:*
+
+
 
 ## Credits
 This project would not be possible without the contributions of:
